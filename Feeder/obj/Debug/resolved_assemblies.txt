@@ -1,0 +1,8 @@
+/Users/brucel/Projects/Feeder/Feeder/bin/Debug/Feeder.dll
+/Library/Frameworks/Mono.framework/External/xbuild-frameworks/MonoAndroid/v1.0/System.dll
+/Library/Frameworks/Mono.framework/External/xbuild-frameworks/MonoAndroid/v1.0/System.Xml.dll
+/Library/Frameworks/Mono.framework/External/xbuild-frameworks/MonoAndroid/v4.0.3/Mono.Android.dll
+/Users/brucel/Projects/Feeder/packages/Newtonsoft.Json.6.0.8/lib/portable-net40+sl5+wp80+win8+wpa81/Newtonsoft.Json.dll
+/Library/Frameworks/Mono.framework/External/xbuild-frameworks/MonoAndroid/v1.0/System.Core.dll
+/Library/Frameworks/Mono.framework/External/xbuild-frameworks/MonoAndroid/v1.0/mscorlib.dll
+/Library/Frameworks/Mono.framework/External/xbuild-frameworks/MonoAndroid/v1.0/System.Runtime.Serialization.dll
